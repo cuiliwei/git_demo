@@ -9,7 +9,7 @@ public class HelloWord {
 		
 		System.out.println("I am  ..");
 		
-		
+		System.out.println("CCC");
 	}
 	
 
